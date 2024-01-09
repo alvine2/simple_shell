@@ -2,7 +2,7 @@ Enhanced Command-Line Interface: ALX Advanced Shell
 Crafted by Alvine as an essential module within the ALX educational ecosystem, the ALX Advanced Shell project surpasses the conventional Unix shell ('/bin/sh') by not only meeting fundamental criteria but also integrating a multitude of sophisticated features, elevating the command-line interaction to a superior level of efficiency and functionality.
 
 Core Development Team
-KINYERA ALVINE .Norbert NIRUGIRA Muhizi
+KINYERA ALVINE ONLY.
 
 Comprehensive Features and Operational Capabilities
 Initial Rollout: ALX Shell 0.1 At this juncture, the shell concentrates on establishing foundational capabilities. It presents a prompt, awaiting user input for a command. Only single-word commands are processed, excluding arguments or special characters. If an executable isn't found, the shell gracefully returns an error message while proceeding to display the subsequent prompt. It adeptly handles the "end of file" condition, often triggered by Ctrl+D.
