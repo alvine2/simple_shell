@@ -28,12 +28,6 @@ An extension to the existing 'exit' functionality is introduced here. The shell 
 Environmental Governance: Setenv and Unsetenv
 This feature set introduces two new built-in commands, setenv and unsetenv, enabling users to initialize, modify, or remove environment variables.
 
-Variable Substitution
-This upgrade introduces the ability to dynamically handle variable replacement, including the incorporation of special variables like 
-$.
-
-Comment Recognition
-The shell now identifies comments. Any input line starting with # is treated as a comment and remains unexecuted.
 
 File-Driven Execution
 In this advanced feature set, the shell is equipped to read commands from a file passed as a command-line argument. It reads and executes these commands one per line, without displaying a prompt or reading from stdin.
